@@ -1,5 +1,5 @@
 ![Untitled design (4)](https://github.com/devanys/RRT-path-planning/assets/145944367/91f73607-73dc-4d68-8bcb-f466e43e8cff)
-### Implementation of Rapidly-exploring Random Tree (RRT)
+### Implementation of Rapidly-exploring Random Tree Star (RRT*)
 
 RRT (Rapidly-exploring Random Tree) is an algorithm used for path planning in robotics and related fields. It efficiently searches high-dimensional spaces and is particularly useful in complex environments.
 
